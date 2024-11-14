@@ -38,5 +38,5 @@ To set up and deploy this architecture, you will need the following:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/academy-awards-soc.git
-cd academy-awards-soc
+git clone https://github.com/YOUR_USERNAME/SOC-architecture-for-Entertainment-awards.git
+cd SOC-architecture-for-Entertainment-awards
